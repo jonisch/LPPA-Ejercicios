@@ -31,5 +31,38 @@ namespace Ejercicios.Controllers
         {
             return View();
         }
+        public ActionResult Ejercicio2()
+        {
+            return View();
+        }
+        public ActionResult Ejercicio3()
+        {
+            return View();
+        }
+        public ActionResult Ejercicio4()
+        {
+            return View();
+        }
+        public ActionResult Enlaces()
+        {
+            return View();
+        }
+        public ActionResult Listas()
+        {
+            return View();
+        }
+        public ActionResult Tablas1()
+        {
+            return View();
+        }
+        public ActionResult Tablas2()
+        {
+            return View();
+        }
+        public ActionResult Formularios1()
+        {
+            return View();
+        }
+
     }
 }
