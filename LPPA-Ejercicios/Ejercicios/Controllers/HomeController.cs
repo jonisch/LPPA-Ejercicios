@@ -63,6 +63,14 @@ namespace Ejercicios.Controllers
         {
             return View();
         }
+        public ActionResult Formularios2()
+        {
+            return View();
+        }
+        public ActionResult Formularios3()
+        {
+            return View();
+        }
 
     }
 }
